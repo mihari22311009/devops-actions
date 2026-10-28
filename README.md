@@ -22,6 +22,7 @@ Quando uma tag de versão (por exemplo `v1.0.0`) é enviada ao repositório, a A
 ## Changelog
 
 <!-- CHANGELOG:START -->
+- `a2fda1c` Update changelog commit message format — Mihari barbosa da silva (2026-10-25)
 - `25dc75b` Add GitHub Actions workflow for release process — Mihari barbosa da silva (2026-10-25)
 - `5b11532` Delete .github/workflows/.github/workflows directory — Mihari barbosa da silva (2026-10-25)
 - `5ce3088` Add GitHub Actions workflow for releases — Mihari barbosa da silva (2026-10-25)
@@ -31,6 +32,7 @@ Quando uma tag de versão (por exemplo `v1.0.0`) é enviada ao repositório, a A
 - `41f76b0` Enhance README with project information and actions — Mihari barbosa da silva (2026-10-25)
 - `bd315fe` Add GitHub Actions workflow for automatic changelog — Mihari barbosa da silva (2026-10-25)
 - `7e95a58` Delete .github/workflows/devops.yml — Mihari barbosa da silva (2026-10-25)
+- `15cd0c3` Adiciona CRUD com docker compose — mihari22311009 (2026-10-22)
 - `0c7e390` Add DevOps workflow for commits and release package — Mihari barbosa da silva (2026-10-22)
 - `accd22c` Initial commit — Mihari barbosa da silva (2026-10-22)
 <!-- CHANGELOG:END -->

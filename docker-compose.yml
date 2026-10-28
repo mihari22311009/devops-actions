@@ -1,0 +1,11 @@
+services:
+  crud:
+    build: .
+    ports:
+      - "8080:5000"
+    volumes:
+      - dados:/data
+    restart: unless-stopped
+
+volumes:
+  dados:
