@@ -22,6 +22,7 @@ Quando uma tag de versão (por exemplo `v1.0.0`) é enviada ao repositório, a A
 ## Changelog
 
 <!-- CHANGELOG:START -->
+- `a3ca496` Delete .github/workflows/release1.yml — Mihari barbosa da silva (2026-10-29)
 - `8d75737` Add GitHub Actions workflow for release process — Mihari barbosa da silva (2026-10-29)
 - `a2fda1c` Update changelog commit message format — Mihari barbosa da silva (2026-10-25)
 - `25dc75b` Add GitHub Actions workflow for release process — Mihari barbosa da silva (2026-10-25)
