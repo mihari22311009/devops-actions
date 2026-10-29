@@ -17,7 +17,7 @@ A cada push na branch `main`, a Action lê o histórico do Git (`git log`) e ree
 
 ## Action de release (`release.yml`)
 
-Quando uma tag de versão (por exemplo `v1.0.0`) é enviada ao repositório, a Action gera um arquivo `pacote.zip` com o conteúdo do projeto e o publica na seção Releases do GitHub, com notas de versão geradas automaticamente. Para publicar uma versão: `git tag v1.0.0 && git push origin v1.0.0`, ou criar a tag pelo site do GitHub.
+A cada push na branch `main`, a Action gera automaticamente um número de versão (`v1.0.N`, onde N é o número da execução), cria a tag no commit da alteração, empacota o projeto em um arquivo `pacote.zip` e publica a versão na seção Releases do GitHub, com notas de versão geradas automaticamente. Não é necessário criar tags manualmente: cada alteração enviada gera uma nova versão.
 
 ## Changelog
 
