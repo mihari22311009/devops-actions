@@ -1,4 +1,4 @@
-# Changelog e Release com GitHub Actions-
+# Changelog e Release com GitHub Actions
 
 Trabalho 1 de DevOps Avançado — UniALFA
 
