@@ -22,6 +22,10 @@ A cada push na branch `main`, a Action gera automaticamente um número de versã
 ## Changelog
 
 <!-- CHANGELOG:START -->
+- `718cfac` Fix title typo in index.html — Mihari barbosa da silva (2026-10-29)
+- `1407d28` Fix header formatting in README.md — Mihari barbosa da silva (2026-10-29)
+- `40df7c8` Fix header formatting in README.md — Mihari barbosa da silva (2026-10-29)
+- `48c02c2` Revise release Action description in README — Mihari barbosa da silva (2026-10-29)
 - `e5a765a` Update release.yml — Mihari barbosa da silva (2026-10-29)
 - `a3ca496` Delete .github/workflows/release1.yml — Mihari barbosa da silva (2026-10-29)
 - `8d75737` Add GitHub Actions workflow for release process — Mihari barbosa da silva (2026-10-29)
